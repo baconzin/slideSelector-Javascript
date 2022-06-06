@@ -1,1 +1,0 @@
-# slideSelector-Javascript
